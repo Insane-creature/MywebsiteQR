@@ -12,6 +12,3 @@ qr.add_data(data)
 qr.make(fit= True)
 img = qr.make_image(fill="black", back_color = "white")
 img.save("test.png")
-
-#3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
-
